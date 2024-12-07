@@ -23,7 +23,7 @@ I learned how to use command, it's a bit rough. I'm learning about Java and HTML
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Theres nothing to do to install the project, it's a live site.
 
 ## Usage
 
